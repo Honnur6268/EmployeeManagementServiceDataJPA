@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: com.axyya.axjmsp05assignmentB.pmp.EmployeeManagementServiceDataJpaProjectApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.279 s <<< FAILURE! - in com.axyya.axjmsp05assignmentB.pmp.EmployeeManagementServiceDataJpaProjectApplicationTests
+com.axyya.axjmsp05assignmentB.pmp.EmployeeManagementServiceDataJpaProjectApplicationTests  Time elapsed: 0.278 s  <<< ERROR!
+java.lang.IllegalStateException: Unable to find a @SpringBootConfiguration, you need to use @ContextConfiguration or @SpringBootTest(classes=...) with your test
+
